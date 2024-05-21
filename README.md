@@ -69,6 +69,7 @@ POST /api/orders
 
 # 🔍 Observações
 - Os serviços devem se comunicar de forma assíncrona, garantindo a integridade dos dados em caso de falha.
+- O estoque deve ser checado na execução do pedido.
 - Os serviços devem ser desenvolvidos com foco na legibilidade, modularidade e reutilização de código.
 - Deve ser implementada uma estratégia de tratamento de falhas que garanta a disponibilidade do sistema mesmo em situações de falha parcial.
 - É fundamental seguir boas práticas de desenvolvimento e padrões de projeto.
