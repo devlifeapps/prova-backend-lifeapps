@@ -5,7 +5,7 @@
 
 # 💻 Desafio Backend Lifeapps
 
-Olá candidato(a). Este é o desafio frontend da Lifeapps!
+Olá candidato(a). Este é o desafio backend da Lifeapps!
 
 Sinta-se à vontade para perguntar qualquer coisa que não esteja claro, mas lembre-se: o desafio é individual!
 Quando terminar, responda o email com o link do seu repositório.
